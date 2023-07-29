@@ -1,0 +1,8 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-64
+langchain=0.0.246=pypi_0
+langsmith=0.0.15=pypi_0
+openai=0.27.8=pypi_0
+openapi-schema-pydantic=1.2.4=pypi_0
+python-dotenv=1.0.0=pypi_0
